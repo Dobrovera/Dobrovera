@@ -29,7 +29,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
 </div>
-<br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Dobrovera&theme=dark&background=000000">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrovera&theme=dark&background=000000">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Dobrovera>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrovera>
