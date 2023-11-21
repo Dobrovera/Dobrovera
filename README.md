@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0N2l5MHE4NWZtZXc3bTliem9meTF4bmJ3cTV3cTQzanV1ejdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
-<h2>Hi there! I'm Vera, welcome to my profile
+<h2 align="center">Hi there! I'm Vera, welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 </center>
@@ -13,7 +13,7 @@
     </a>
 </a>
     <br>
-<h3>Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
