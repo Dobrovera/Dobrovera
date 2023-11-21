@@ -7,8 +7,10 @@
 </h2>
 </center>
     <br>
-<a> I'm backend developer. You can text me here 
-    [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gluuuk)
+<a> I'm backend developer. You can text me here
+    <a href="https://t.me/gluuuk">
+      <img src="https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white"
+    </a>
 </a>
     <br>
 <h3>Tech Stack</h3>
@@ -28,4 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
 </div>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dobrovera&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Dobrovera&theme=dark&background=000000">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrovera&theme=dark&background=000000">
