@@ -1,4 +1,3 @@
-
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0N2l5MHE4NWZtZXc3bTliem9meTF4bmJ3cTV3cTQzanV1ejdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
@@ -10,7 +9,6 @@
       <img src="https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white"
     </a>
 </a>
-    <br>
 <h3>Tech Stack</h3>
 <hr>
 <div>
