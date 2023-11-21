@@ -32,5 +32,4 @@
 <br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Dobrovera&theme=dark&background=000000">
 <br>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrovera&theme=dark&background=000000">
