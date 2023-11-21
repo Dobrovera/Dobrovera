@@ -1,19 +1,17 @@
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0N2l5MHE4NWZtZXc3bTliem9meTF4bmJ3cTV3cTQzanV1ejdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
-<h2 align="center">Hi there! I'm Vera, welcome to my profile
+<h3>Hi there! I'm Vera, welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
-</center>
-    <br>
+</h3>
 <a> I'm backend developer. You can text me here
     <a href="https://t.me/gluuuk">
       <img src="https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white"
     </a>
 </a>
     <br>
-<h3 align="center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 <hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
