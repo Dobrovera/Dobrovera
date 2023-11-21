@@ -1,11 +1,14 @@
-<div id="header">
+
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0N2l5MHE4NWZtZXc3bTliem9meTF4bmJ3cTV3cTQzanV1ejdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
 <h2>Hi there! I'm Vera, welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+</center>
     <br>
-- I'm backend developer. You can text me here [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gluuuk)
+<a> I'm backend developer. You can text me here 
+    [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gluuuk)
 </a>
     <br>
 <h3>Tech Stack</h3>
@@ -26,4 +29,3 @@
 </div>
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dobrovera&theme=dark&background=000000)](https://git.io/streak-stats)
-
